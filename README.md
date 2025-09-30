@@ -1,16 +1,26 @@
-## Hi there 👋
+<h1 align="center"><em>Full Stack JS Developer</em></h1>
 
-<!--
-**taryxdev/taryxdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻| Languages
+• JavaScript / TypeScript<br />
+• LUA<br />
+• HTML / CSS / SCSS
 
-Here are some ideas to get you started:
+## ⚡| Framework 
+• Vue.js + Nuxt.js<br />
+• React.js + Next.js<br />
+• Express.js<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 | My links
+• **WEB** | [taryxdev.dev](https://taryxdev.dev)<br />
+• **Discord** | taryxdev
+
+## 🗣️| Languages
+• French<br />
+• English
+
+<hr />
+<p align="center"><a href="#">
+<img src="https://github-readme-stats.vercel.app/api?username=taryxdev&count_private=true&show_icons=true&theme=tokyonight&card_width=450" /><br />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taryxdev&hide=css&layout=compact&theme=tokyonight&card_width=450" />
+  </a></p>
